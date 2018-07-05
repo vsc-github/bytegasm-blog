@@ -2,4 +2,4 @@
 title: info
 ---
 
-I am a front-end web developer. I used to be a web designer also, but now I concentrate on the code.
+Full Stack Developer. I love  creating  crisp modern webapps. I code for the love of creating & I travel to keep myself sane.

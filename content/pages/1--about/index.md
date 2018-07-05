@@ -2,9 +2,8 @@
 title: About
 ---
 
-This is a demo site of the [PersonalBlog](https://github.com/greglobinski/gatsby-starter-personal-blog) GatsbyJS starter.
-
-The starter is a ready to use, easy to customize 'like theme' starter. It has everything what blog should have and some more.
+This website/tech blog is powered  using markdown files.
+Under the hood it is using Gastsby, React, GraphQL & node.
 
 ### Standard features:
 
@@ -14,8 +13,6 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * **Comments** (Facebook)
 * **Images** lazy loading and `webp` support (gatsby-image)
 * Post **categories** (post list filtering)
-* Full text **searching** (Algolia)
-* **Contact** form (Netlify form handling)
 * **RSS** feed
 * **PWA** (manifes.json, offline support, favicons)
 * Google **Analytics**
@@ -31,7 +28,3 @@ The starter is a ready to use, easy to customize 'like theme' starter. It has ev
 * Custom webpack `CommonsChunkPlugin` settings
 * Webpack `BundleAnalyzerPlugin`
 * Contact **form validation** (react-material-ui-form-validator)
-
-## Instructions
-
-For detailed instructions go to [Front-end web development with Greg](https://dev.greglobinski.com/gatsby-starter-personal-blog/).
