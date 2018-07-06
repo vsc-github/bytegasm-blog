@@ -1,6 +1,7 @@
 ---
 title: Exciting year to be a web developer
 subTitle: How Progressive Web Apps win over native apps.
+category: "deep dives"
 cover: pwas.png
 ---
 
