@@ -4,7 +4,7 @@ module.exports = {
   siteTitle: "Bytegasm - free web development bytes, tips, tutorials & swag.", // <title>
   shortSiteTitle: " - Bytegasm!", // <title> ending for posts and pages
   siteDescription: "Short, fun, bytes about web development that you didn't know about. Join the community now.",
-  siteUrl: "",
+  siteUrl: "https://bytegasm.com",
   pathPrefix: "",
   siteImage: "",
   siteLanguage: "en",
